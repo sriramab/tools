@@ -12,7 +12,7 @@ ral_var stands for read and list variabales
 
 + download ral_var folder
 
-++ on command prompt or terminal 
++ on command prompt or terminal 
 
 ` python path_to_/ral.py path_to_/fileName.gaml `
 
