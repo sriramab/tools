@@ -6,9 +6,11 @@ small tools for dirty work
 
 ## using ral_var. 
 
+*ral_var* stands for: read and list variables 
+
 This tool reads any script file (if modified slightly) and lists its variables in a text file. This current version reads GAML file.
 
-ral_var stands for read and list variabales 
+
 
 + install python on your computer
 
