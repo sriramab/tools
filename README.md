@@ -18,7 +18,7 @@ This tool reads any script file (if modified slightly) and lists its variables i
 
 + download ral_var folder
 
-+ on command prompt or terminal type the following 
++ on command prompt or terminal, type the following 
 
 ` python path_to_/ral.py path_to_/fileName.gaml `
 
