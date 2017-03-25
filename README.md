@@ -28,6 +28,8 @@ To use the sample gaml file in the folder, at the terminal or command prompt, ty
 
 `python ral.py OML.gaml`
 
+will give the following result on screen and in the result.txt
+
 ``` 3 file railStop <- file("../includes/Station_square.shp");
 
 4 file railNet <- file("../includes/Srail_network.shp");
