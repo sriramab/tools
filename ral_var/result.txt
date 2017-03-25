@@ -1,0 +1,26 @@
+3 file railStop <- file("../includes/Station_square.shp");
+
+4 file railNet <- file("../includes/Srail_network.shp");
+
+5 geometry shape <- envelope(railNet);
+
+6 float step <-1#mn;
+
+19 float speed <-1667#m/#mn;
+
+20 path path_travelled;
+
+21 float distance_travelled<-1.0;
+
+22 float distance_km;
+
+23 float speed_real;
+
+24 geometry dummy <- line([{0,0,0},{0.5,0.5,0}]);
+
+25 int my_entryTime_at_THIS_station;
+
+62 int offset <-2500;
+
+69 float distanceRail;
+
