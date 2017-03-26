@@ -1,7 +1,7 @@
 # tools
 small tools for dirty work
 
-
+1. ral_var : export overview of your model. it reads variables, actions, reflexes, species from your gaml file and makes a list. 
 
 
 ## using ral_var. 
