@@ -22,7 +22,7 @@ This tool reads any script file (if modified slightly) and lists its variables i
 
 ` python path_to_/ral.py path_to_/fileName.gaml `
 
-the result will be stored in ral_var folder as result.txt. The result includes line number of the variable, the variable type and the variable. To get it completely correct, you should have a well formatted gaml file. To get a well formatted gaml file: in GAMA open your file and in your editor, right click and select format. Save it. Now use the script. 
+the result will be stored in ral_var folder as result.txt. The result includes line number of the variable, the variable type and the variable definition and its assigned value. To get it completely correct, you should have a well formatted gaml file. To get a well formatted gaml file: in GAMA open your file and in your editor, right click and select format. Save it. Now use the script. 
 
 To use the sample gaml file in the folder, at the terminal or command prompt, type:
 
