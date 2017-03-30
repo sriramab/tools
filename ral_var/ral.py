@@ -15,6 +15,7 @@ with open(filename) as f:
            # mylist.append(line.split(None, 1)[0])
             mylist.append(line.split(None,1))
             
+# This for loop reads the file and prints on screen, l is line number           
 for l in range(1,len(mylist) ):
     if len(mylist[l])>1 :
         if mylist[l][0] in ['float', 'int', 'map', 'list', 'file', 'path', 'geometry']:        
@@ -23,6 +24,7 @@ for l in range(1,len(mylist) ):
             
 thefile = open('result.txt', 'w')
 
+# This for loop reads the file and saves to a file, l is line number
 for l in range(1,len(mylist) ):
     if len(mylist[l])>1 :
         if mylist[l][0] in ['float', 'int', 'map', 'list', 'file', 'path', 'geometry']:        
