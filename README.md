@@ -16,7 +16,7 @@ This tool reads any script file (if modified slightly) and lists its variables i
 
 + set path to python
 
-+ download ral_var folder
++ download from [releases](https://github.com/sriramab/tools/releases)
 
 + on command prompt or terminal, type the following 
 
