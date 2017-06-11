@@ -16,7 +16,7 @@ This tool reads any script file (if modified slightly) and lists its variables i
 
 + set path to python
 
-+ download from [releases](https://github.com/sriramab/tools/releases)
++ download the source code from [releases](https://github.com/sriramab/tools/releases) and extract its content into a folder.
 
 + on command prompt or terminal, type the following 
 
