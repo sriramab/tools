@@ -1,5 +1,9 @@
-# tools
-small tools for dirty work
+# GAML Crawler
+
+Sometimes, your GAML files is so huge that you quickly lose track of the variables used in your model. This script makes it easier to crawl through your GAMAL files, extract all your variables and make a list of them for you as a summary of the model. You can print this list and discusss on your assumptions and initial values with your supervisor or your team.
+
+
+
 
 1. ral_var : export overview of your model. it reads variables, actions, reflexes, species from your gaml file and makes a list. 
 
